@@ -15,3 +15,6 @@
 * it should differentiate between friday and saturday hours of the same booking
 * it should differentiate between saturday and sunday hours of the same booking
 * it should differentiate between sunday and monday hours of the same booking
+
+### describe sad paths
+* it should throw an error if inputs are incorrectly formatted
